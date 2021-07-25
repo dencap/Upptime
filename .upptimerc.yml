@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://pay.dencapsecure.com/favicon/apple-touch-icon.png
   name: DENCAP Dental Plans
   introTitle: 
-  theme: ocean
+  theme: dark
   introMessage: 
   navbar:
     - title: Status
