@@ -3,12 +3,18 @@ owner: dencap
 repo: Upptime
 
 sites:
-  - name: DENCAP Main Website
+  - name: DC Main
     url: https://www.dencap.com
-  - name: DENCAP Payment Portal
+  - name: DC Payment Portal
     url: https://pay.dencapsecure.com
-  - name: Healthy Michigan Dental
+  - name: DC Doc Portal-Agent
+    url: https://agents.dencapsecure.com
+  - name: DC Doc Portal-Provider
+    url: https://providers.dencapsecure.com
+  - name: HMD Main
     url: https://hmidental.com
+  - name: HMD Doc Portal
+    url: https://hmdsecure.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
