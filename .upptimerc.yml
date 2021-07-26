@@ -23,8 +23,8 @@ status-website:
   baseUrl: /Upptime
   logoUrl: https://pay.dencapsecure.com/favicon/apple-touch-icon.png
   name: DENCAP Dental Plans
-  introTitle: 
   theme: dark
+  introTitle: 
   introMessage: 
   navbar:
     - title: Status
