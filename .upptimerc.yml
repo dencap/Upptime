@@ -15,8 +15,7 @@ sites:
     url: https://hmidental.com
   - name: HMD Doc Portal
     url: https://hmdsecure.com
-  - name: DC Enrollment Sysyem
-    url: https://dencapenrsvc.dencap.com/DencapRegEnrService.svc/SaveFormData
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
