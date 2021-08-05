@@ -22,19 +22,19 @@
     "url": "https://pay.dencapsecure.com",
     "icon": "https://favicons.githubusercontent.com/pay.dencapsecure.com",
     "slug": "dc-payment-portal",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 329,
     "timeDay": 472,
     "timeWeek": 297,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2021-07-28": 7
+      "2021-08-05": 2
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://agents.dencapsecure.com",
     "icon": "https://favicons.githubusercontent.com/agents.dencapsecure.com",
     "slug": "dc-doc-portal-agent",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 270,
     "timeDay": 371,
     "timeWeek": 260,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2021-07-28": 6
+      "2021-08-05": 1
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://providers.dencapsecure.com",
     "icon": "https://favicons.githubusercontent.com/providers.dencapsecure.com",
     "slug": "dc-doc-portal-provider",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 291,
     "timeWeek": 231,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2021-07-28": 6
+      "2021-08-05": 0
     }
   },
   {
@@ -83,19 +83,17 @@
     "icon": "https://favicons.githubusercontent.com/hmidental.com",
     "slug": "hmd-main",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1527,
     "timeDay": 1514,
     "timeWeek": 1528,
     "timeMonth": 1527,
     "timeYear": 1527,
-    "dailyMinutesDown": {
-      "2021-07-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HMD Doc Portal",
