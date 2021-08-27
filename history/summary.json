@@ -44,18 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/agents.dencapsecure.com",
     "slug": "dc-doc-portal-agent",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 505,
     "timeDay": 2784,
     "timeWeek": 1423,
     "timeMonth": 566,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-08-27": 6,
       "2021-08-26": 20,
       "2021-08-05": 20
     }
@@ -65,9 +64,9 @@
     "url": "https://providers.dencapsecure.com",
     "icon": "https://favicons.githubusercontent.com/providers.dencapsecure.com",
     "slug": "dc-doc-portal-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
@@ -77,6 +76,7 @@
     "timeMonth": 235,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2021-08-27": 0,
       "2021-08-26": 41,
       "2021-08-05": 19
     }
@@ -105,18 +105,17 @@
     "icon": "https://favicons.githubusercontent.com/hmdsecure.com",
     "slug": "hmd-doc-portal",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 576,
     "timeDay": 4343,
     "timeWeek": 1234,
     "timeMonth": 639,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2021-08-27": 14,
       "2021-08-26": 19
     }
   }
