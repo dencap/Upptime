@@ -22,10 +22,10 @@
     "url": "https://pay.dencapsecure.com",
     "icon": "https://favicons.githubusercontent.com/pay.dencapsecure.com",
     "slug": "dc-payment-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.67%",
     "time": 919,
@@ -34,7 +34,7 @@
     "timeMonth": 1156,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2021-09-01": 88,
+      "2021-09-01": 89,
       "2021-08-31": 47,
       "2021-08-26": 21,
       "2021-08-05": 21
