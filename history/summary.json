@@ -132,8 +132,8 @@
     "url": "https://hmidental.com",
     "icon": "https://icons.duckduckgo.com/ip3/hmidental.com.ico",
     "slug": "hmd-main",
-    "status": "up",
-    "uptime": "99.63%",
+    "status": "down",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
@@ -144,6 +144,7 @@
     "timeMonth": 894,
     "timeYear": 1116,
     "dailyMinutesDown": {
+      "2022-11-06": -60,
       "2022-11-03": 37,
       "2022-09-21": 39,
       "2022-08-20": 16,
