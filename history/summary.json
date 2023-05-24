@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dencap.com.ico",
     "slug": "dc-main",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 608,
-    "timeDay": 420,
-    "timeWeek": 534,
-    "timeMonth": 604,
+    "timeDay": 731,
+    "timeWeek": 564,
+    "timeMonth": 608,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2023-01-25": 15,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 353,
-    "timeDay": 101,
-    "timeWeek": 183,
-    "timeMonth": 172,
-    "timeYear": 310,
+    "timeDay": 185,
+    "timeWeek": 180,
+    "timeMonth": 171,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-04-19": 162,
       "2023-04-08": 92,
@@ -56,8 +56,7 @@
       "2022-08-09": 22,
       "2022-06-26": 16,
       "2022-06-21": 28,
-      "2022-06-15": 17,
-      "2022-05-24": 25
+      "2022-06-15": 17
     }
   },
   {
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 459,
-    "timeDay": 56,
-    "timeWeek": 186,
-    "timeMonth": 191,
+    "timeDay": 305,
+    "timeWeek": 210,
+    "timeMonth": 192,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2023-03-10": 22,
@@ -103,10 +102,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 446,
-    "timeDay": 33,
-    "timeWeek": 191,
-    "timeMonth": 227,
+    "time": 447,
+    "timeDay": 294,
+    "timeWeek": 214,
+    "timeMonth": 228,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2023-03-13": 17,
@@ -137,10 +136,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 754,
-    "timeDay": 143,
-    "timeWeek": 286,
-    "timeMonth": 288,
+    "time": 753,
+    "timeDay": 309,
+    "timeWeek": 300,
+    "timeMonth": 285,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2022-11-03": 37,
@@ -148,8 +147,7 @@
       "2022-08-20": 16,
       "2022-07-03": 16,
       "2022-06-26": 16,
-      "2022-06-15": 16,
-      "2022-05-24": 25
+      "2022-06-15": 16
     }
   },
   {
@@ -164,8 +162,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 665,
-    "timeDay": 95,
-    "timeWeek": 272,
+    "timeDay": 311,
+    "timeWeek": 294,
     "timeMonth": 311,
     "timeYear": 660,
     "dailyMinutesDown": {
