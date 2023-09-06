@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 609,
-    "timeDay": 760,
-    "timeWeek": 603,
-    "timeMonth": 622,
+    "timeDay": 755,
+    "timeWeek": 600,
+    "timeMonth": 620,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2023-07-24": 29,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.83%",
     "time": 286,
-    "timeDay": 136,
-    "timeWeek": 185,
-    "timeMonth": 189,
+    "timeDay": 180,
+    "timeWeek": 189,
+    "timeMonth": 192,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-08-11": 166,
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.72%",
     "time": 434,
-    "timeDay": 327,
+    "timeDay": 324,
     "timeWeek": 234,
-    "timeMonth": 269,
+    "timeMonth": 266,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2023-08-11": 16,
@@ -86,8 +86,7 @@
       "2022-12-07": 523,
       "2022-12-06": 100,
       "2022-09-19": 25,
-      "2022-09-07": 260,
-      "2022-09-06": 304
+      "2022-09-07": 260
     }
   },
   {
@@ -102,9 +101,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.72%",
     "time": 387,
-    "timeDay": 378,
-    "timeWeek": 240,
-    "timeMonth": 227,
+    "timeDay": 290,
+    "timeWeek": 231,
+    "timeMonth": 228,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2023-08-11": 15,
@@ -117,8 +116,7 @@
       "2022-12-07": 523,
       "2022-12-06": 100,
       "2022-09-22": 20,
-      "2022-09-07": 260,
-      "2022-09-06": 303
+      "2022-09-07": 260
     }
   },
   {
@@ -127,15 +125,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmidental.com.ico",
     "slug": "hmd-main",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 626,
-    "timeDay": 252,
-    "timeWeek": 328,
-    "timeMonth": 316,
+    "timeDay": 193,
+    "timeWeek": 318,
+    "timeMonth": 317,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2023-07-25": 24,
@@ -154,9 +152,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 593,
-    "timeDay": 381,
-    "timeWeek": 302,
+    "time": 591,
+    "timeDay": 356,
+    "timeWeek": 288,
     "timeMonth": 306,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -166,8 +164,7 @@
       "2023-01-30": 43,
       "2023-01-20": 27,
       "2022-12-16": 23,
-      "2022-09-07": 260,
-      "2022-09-06": 303
+      "2022-09-07": 260
     }
   }
 ]
