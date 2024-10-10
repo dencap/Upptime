@@ -97,19 +97,19 @@
     "url": "https://hmidental.com",
     "icon": "https://icons.duckduckgo.com/ip3/hmidental.com.ico",
     "slug": "hmd-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 679,
-    "timeWeek": 372,
-    "timeMonth": 272,
+    "timeDay": 548,
+    "timeWeek": 363,
+    "timeMonth": 273,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 7
     }
   },
   {
