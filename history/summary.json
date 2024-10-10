@@ -97,18 +97,20 @@
     "url": "https://hmidental.com",
     "icon": "https://icons.duckduckgo.com/ip3/hmidental.com.ico",
     "slug": "hmd-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 303,
-    "timeWeek": 275,
-    "timeMonth": 246,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 679,
+    "timeWeek": 372,
+    "timeMonth": 272,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "HMD Doc Portal",
