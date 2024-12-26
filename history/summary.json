@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 563,
-    "timeDay": 398,
-    "timeWeek": 532,
-    "timeMonth": 569,
+    "timeDay": 524,
+    "timeWeek": 525,
+    "timeMonth": 577,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2024-03-04": 39
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 218,
-    "timeDay": 143,
-    "timeWeek": 333,
-    "timeMonth": 222,
-    "timeYear": 227,
+    "uptimeYear": "99.93%",
+    "time": 219,
+    "timeDay": 570,
+    "timeWeek": 301,
+    "timeMonth": 235,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-10-10": 16,
       "2024-07-28": 17,
@@ -42,8 +42,7 @@
       "2024-01-21": 44,
       "2024-01-19": 151,
       "2024-01-05": 61,
-      "2024-01-04": 24,
-      "2023-12-27": 28
+      "2024-01-04": 24
     }
   },
   {
@@ -56,12 +55,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 424,
-    "timeDay": 293,
-    "timeWeek": 294,
-    "timeMonth": 311,
-    "timeYear": 387,
+    "uptimeYear": "99.99%",
+    "time": 426,
+    "timeDay": 1176,
+    "timeWeek": 385,
+    "timeMonth": 343,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2024-12-19": 27,
       "2024-01-18": 21
@@ -77,16 +76,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 152,
-    "timeWeek": 201,
-    "timeMonth": 239,
-    "timeYear": 282,
+    "timeDay": 331,
+    "timeWeek": 214,
+    "timeMonth": 241,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2024-12-19": 26,
-      "2024-01-18": 20,
-      "2023-12-27": 27
+      "2024-01-18": 20
     }
   },
   {
@@ -101,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 246,
-    "timeWeek": 278,
-    "timeMonth": 298,
+    "timeDay": 241,
+    "timeWeek": 280,
+    "timeMonth": 285,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -113,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmdsecure.com.ico",
     "slug": "hmd-doc-portal",
     "status": "down",
-    "uptime": "97.05%",
+    "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.11%",
-    "uptimeYear": "93.22%",
-    "time": 395,
+    "uptimeMonth": "15.82%",
+    "uptimeYear": "92.98%",
+    "time": 396,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 242,
-    "timeYear": 417,
+    "timeMonth": 230,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-12-25": 66,
+      "2024-12-26": 66,
+      "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -150,8 +149,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 807,
-      "2024-01-18": 20,
-      "2023-12-27": 27
+      "2024-01-18": 20
     }
   }
 ]
