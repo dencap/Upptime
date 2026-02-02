@@ -11,9 +11,9 @@
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.83%",
     "time": 566,
-    "timeDay": 561,
-    "timeWeek": 569,
-    "timeMonth": 552,
+    "timeDay": 586,
+    "timeWeek": 568,
+    "timeMonth": 553,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-01-04": 435,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 490,
-    "timeWeek": 297,
-    "timeMonth": 425,
-    "timeYear": 312,
+    "time": 285,
+    "timeDay": 934,
+    "timeWeek": 326,
+    "timeMonth": 446,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-10-19": 16
     }
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 327,
-    "timeDay": 410,
-    "timeWeek": 300,
-    "timeMonth": 312,
+    "timeDay": 384,
+    "timeWeek": 326,
+    "timeMonth": 315,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-09-23": 188,
@@ -81,8 +81,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 281,
-    "timeDay": 322,
-    "timeWeek": 269,
+    "timeDay": 338,
+    "timeWeek": 276,
     "timeMonth": 251,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 633,
-    "timeDay": 7650,
-    "timeWeek": 2417,
-    "timeMonth": 1386,
-    "timeYear": 726,
+    "time": 634,
+    "timeDay": 841,
+    "timeWeek": 2503,
+    "timeMonth": 1391,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-10-20": 37,
       "2025-10-19": 16,
@@ -123,15 +123,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmdsecure.com.ico",
     "slug": "hmd-doc-portal",
     "status": "up",
-    "uptime": "89.33%",
+    "uptime": "89.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.50%",
     "uptimeMonth": "98.50%",
-    "uptimeYear": "72.25%",
-    "time": 548,
-    "timeDay": 694,
-    "timeWeek": 649,
-    "timeMonth": 696,
+    "uptimeYear": "72.52%",
+    "time": 549,
+    "timeDay": 667,
+    "timeWeek": 661,
+    "timeMonth": 697,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2026-01-27": 655,
@@ -237,8 +237,7 @@
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
-      "2025-02-03": 1440,
-      "2025-02-02": 1440
+      "2025-02-03": 1440
     }
   }
 ]
