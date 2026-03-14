@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 574,
-    "timeDay": 4224,
-    "timeWeek": 1062,
-    "timeMonth": 671,
+    "timeDay": 666,
+    "timeWeek": 1086,
+    "timeMonth": 679,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2026-02-04": 33,
@@ -36,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 194,
-    "timeWeek": 418,
-    "timeMonth": 399,
+    "time": 300,
+    "timeDay": 215,
+    "timeWeek": 335,
+    "timeMonth": 394,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-10-19": 16
@@ -56,18 +56,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 333,
-    "timeDay": 586,
-    "timeWeek": 381,
-    "timeMonth": 347,
-    "timeYear": 314,
+    "time": 334,
+    "timeDay": 492,
+    "timeWeek": 374,
+    "timeMonth": 350,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-02-09": 32,
       "2025-09-23": 188,
       "2025-05-06": 39,
       "2025-03-16": 582,
-      "2025-03-15": 1440,
-      "2025-03-14": 985
+      "2025-03-15": 1440
     }
   },
   {
@@ -82,16 +81,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 285,
-    "timeDay": 278,
-    "timeWeek": 242,
-    "timeMonth": 284,
+    "timeDay": 267,
+    "timeWeek": 250,
+    "timeMonth": 281,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-09-23": 188,
       "2025-05-06": 39,
       "2025-03-16": 582,
-      "2025-03-15": 1440,
-      "2025-03-14": 984
+      "2025-03-15": 1440
     }
   },
   {
@@ -106,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 672,
-    "timeDay": 7554,
-    "timeWeek": 2409,
-    "timeMonth": 917,
+    "timeDay": 308,
+    "timeWeek": 2406,
+    "timeMonth": 915,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-10-20": 37,
@@ -123,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmdsecure.com.ico",
     "slug": "hmd-doc-portal",
     "status": "up",
-    "uptime": "89.58%",
+    "uptime": "89.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.21%",
+    "uptimeYear": "83.48%",
     "time": 599,
-    "timeDay": 546,
-    "timeWeek": 559,
-    "timeMonth": 662,
+    "timeDay": 703,
+    "timeWeek": 578,
+    "timeMonth": 667,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-01-27": 655,
@@ -197,8 +195,7 @@
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
-      "2025-03-15": 1440,
-      "2025-03-14": 1440
+      "2025-03-15": 1440
     }
   }
 ]
