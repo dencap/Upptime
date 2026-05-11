@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 578,
-    "timeDay": 511,
-    "timeWeek": 587,
-    "timeMonth": 574,
+    "timeDay": 612,
+    "timeWeek": 586,
+    "timeMonth": 582,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2026-02-04": 33,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 330,
-    "timeDay": 90,
-    "timeWeek": 628,
+    "timeDay": 212,
+    "timeWeek": 542,
     "timeMonth": 542,
-    "timeYear": 359,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2026-03-27": 43,
       "2025-10-19": 16
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 337,
-    "timeDay": 232,
-    "timeWeek": 431,
-    "timeMonth": 358,
+    "timeDay": 481,
+    "timeWeek": 443,
+    "timeMonth": 359,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2026-02-09": 32,
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 290,
-    "timeDay": 226,
-    "timeWeek": 277,
-    "timeMonth": 282,
+    "timeDay": 320,
+    "timeWeek": 272,
+    "timeMonth": 286,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-09-23": 188
@@ -98,10 +98,10 @@
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.97%",
-    "time": 806,
-    "timeDay": 304,
-    "timeWeek": 478,
-    "timeMonth": 1189,
+    "time": 807,
+    "timeDay": 371,
+    "timeWeek": 455,
+    "timeMonth": 1191,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2026-05-10": 106,
@@ -116,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmdsecure.com.ico",
     "slug": "hmd-doc-portal",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.38%",
     "time": 626,
-    "timeDay": 586,
-    "timeWeek": 695,
-    "timeMonth": 733,
+    "timeDay": 649,
+    "timeWeek": 664,
+    "timeMonth": 732,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2026-01-27": 655,
@@ -132,8 +132,7 @@
       "2025-10-09": 235,
       "2025-08-24": 179,
       "2025-07-21": 62,
-      "2025-05-12": 477,
-      "2025-05-11": 1440
+      "2025-05-12": 477
     }
   }
 ]
