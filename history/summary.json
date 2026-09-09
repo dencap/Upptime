@@ -49,16 +49,16 @@
     "url": "https://agents.dencapsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/agents.dencapsecure.com.ico",
     "slug": "dc-doc-portal-agent",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.84%",
-    "time": 319,
-    "timeDay": 474,
-    "timeWeek": 331,
-    "timeMonth": 310,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.79%",
+    "time": 318,
+    "timeDay": 351,
+    "timeWeek": 318,
+    "timeMonth": 308,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-09-23": 188,
@@ -69,7 +69,7 @@
       "2026-08-15": 19,
       "2026-08-19": 25,
       "2026-08-29": 319,
-      "2026-09-09": 5
+      "2026-09-09": 231
     }
   },
   {
@@ -77,16 +77,16 @@
     "url": "https://providers.dencapsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/providers.dencapsecure.com.ico",
     "slug": "dc-doc-portal-provider",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "84.28%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.81%",
     "time": 277,
-    "timeDay": 399,
-    "timeWeek": 235,
-    "timeMonth": 244,
+    "timeDay": 262,
+    "timeWeek": 221,
+    "timeMonth": 241,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-09-23": 188,
@@ -95,7 +95,7 @@
       "2026-08-04": 164,
       "2026-08-19": 21,
       "2026-08-29": 314,
-      "2026-09-09": 0
+      "2026-09-09": 226
     }
   },
   {
