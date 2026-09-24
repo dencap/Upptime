@@ -51,9 +51,9 @@
     "slug": "dc-doc-portal-agent",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.83%",
     "time": 316,
     "timeDay": 402,
@@ -68,8 +68,7 @@
       "2026-08-15": 19,
       "2026-08-19": 25,
       "2026-08-29": 319,
-      "2026-09-09": 231,
-      "2026-09-24": 6
+      "2026-09-09": 231
     }
   },
   {
@@ -79,10 +78,10 @@
     "slug": "dc-doc-portal-provider",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.85%",
     "time": 276,
     "timeDay": 465,
     "timeWeek": 265,
@@ -94,8 +93,7 @@
       "2026-08-04": 164,
       "2026-08-19": 21,
       "2026-08-29": 314,
-      "2026-09-09": 226,
-      "2026-09-24": 1
+      "2026-09-09": 226
     }
   },
   {
